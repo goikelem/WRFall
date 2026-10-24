@@ -92,7 +92,7 @@ sudo dnf groupinstall 'Development Tools' && sudo dnf install gcc-gfortran perl 
 | `-hydro` | 🔵 WRF-Hydro | NCAR `wrf_hydro_nwm_public` v5.3.0 merged in |
 | `-fire` | 🔴 WRF-Fire | Real-data build, fire-ready WPS (`NFUEL_CAT`, `ZSF`, subgrid) |
 | `-fireideal` | 🟥 WRF-Fire ideal | `./compile em_fire`, WRF only |
-| `-all` | 🌈 All of the above | `arw`, `chem`, `hydro`, `fire` |
+| `-all` | 🟢🟡🔴 All of the above | `arw`, `chem`, `hydro`, `fire` |
 
 You can also use `--type arw|chem|hydro|fire|fireideal` (repeatable).
 
