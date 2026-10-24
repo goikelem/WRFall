@@ -72,4 +72,4 @@ source ~/Build_WRF/etc/modulefiles/WRFARW.sh          # one build type at a time
 - **WRF-Chem ≥ 4.7 KPP errors?** Use `--install 4.6.0 -chem --force`.
 - **`--run` limit:** 1–72 forecast hours per call.
 
-<p align="center"><i>Full details: <a href="USER_GUIDE.md">USER_GUIDE.md</a> · Now go forth and simulate! 🌍</i></p>
+<p align="center"><i>Full details: <a href="WRFall_User_Guide.md">USER_GUIDE.md</a> · Now go forth and simulate! 🌍</i></p>
