@@ -147,7 +147,7 @@ The download area is read from the **d01 lat/lon extent** in `namelist.wps` (all
 
 ---
 
-## 🌈 All options
+## 🟢🟡🔴 All options
 
 | Flag | Purpose |
 |---|---|
