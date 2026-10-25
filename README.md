@@ -13,7 +13,11 @@
 ```bash
 git clone https://github.com/goikelem/WRFall.git && cd WRFall && chmod +x wrfall_install.py
 ```
-
+## If you want to use Perl 
+```bash
+git clone https://github.com/goikelem/WRFall.git && cd WRFall && chmod +x wrfall_install.pl
+```
+# 🚩 Handy flags   if you want to use Perl; the only thing you change is the .py to .pl extension 
 ## 🔧 Install & update
 ```bash
 ./wrfall_install.py --install list            # list releases
