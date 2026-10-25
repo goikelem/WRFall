@@ -17,7 +17,7 @@ git clone https://github.com/goikelem/WRFall.git && cd WRFall && chmod +x wrfall
 ```bash
 git clone https://github.com/goikelem/WRFall.git && cd WRFall && chmod +x wrfall_install.pl
 ```
-# 🚩 Handy flags   if you want to use Perl; the only thing you change is the .py to .pl extension 
+# 🚩 If you want to use Perl, the only thing you change is the <code style="color: #e83e8c; background-color: #f8f9fa; padding: 2px 4px; border-radius: 4px;">.py</code> to <code style="color: #28a745; background-color: #f8f9fa; padding: 2px 4px; border-radius: 4px;">.pl</code> extension
 ## 🔧 Install & update
 ```bash
 ./wrfall_install.py --install list            # list releases
